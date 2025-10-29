@@ -1,0 +1,1694 @@
+[
+  {
+    "id": 1,
+    "title": "컨베이어 보수 작업 중 끼임",
+    "industry": "제조업",
+    "description": "‘2025.01.25.(토) 07:35경 강원도 원주시 소재 oo사업장에서 재해자가 삽을 이용하여 컨베이어 테이크업 풀리* 주변에서 \r\n\r\n풀리에 얼어붙은 흙 등을 제거하던 중, 회전하는 벤드 풀리**에 말려 들어가 벨트와 구조물에 끼임\r\n\r\n\r\n\r\n* Take-up pulley: 컨베이어 벨트에 적절한 장력을 유지하여 주는 풀리 \r\n** Bend pulley: 컨베이어 벨트의 방향을 변경하는 풀리로 테이크업 풀리 위에서 90°로 벨트를 구부려 방향을 변경",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 2,
+    "title": "지게차 포크에서 작업 중 추락",
+    "industry": "제조업",
+    "description": "‘2024. 11. 00.(금) 00:00경 경기도 소재 OOOOO㈜ 옥외 폐기물 저장소에서 \r\n\r\n외국인 근로자 2명이 지게차 포크 위 팔레트에 적재된 폐기물을 암롤박스에 투하하는 작업을 하던 중 \r\n\r\n팔레트가 포크에서 밀리며 몸 균형을 잃고 약 2.6m 아래의 바닥으로 추락하여 부상함\r\n",
+    "accidentType": "떨어짐 (추락)",
+    "accidentTypeId": 1,
+    "originalType": "추락"
+  },
+  {
+    "id": 3,
+    "title": "슬러리 피트 내부 작업 중 황화수소 중독",
+    "industry": "제조업",
+    "description": "‘2017. 05. 27.(토) 11:20경 여주시 소재 OOOO 작업장에서 슬러리 피트 내부 작업 중 황화수소 중독에 의한 질식",
+    "accidentType": "유해물질 접촉/흡입 (중독/질식)",
+    "accidentTypeId": 13,
+    "originalType": "중독"
+  },
+  {
+    "id": 4,
+    "title": "화물 상차 작업 중 떨어짐",
+    "industry": "제조업",
+    "description": "‘2025. 5.00. 07:20경 인천광역시 부평구 소재 사업장에서 지정폐기물 수거를 위해\r\n폐도료 드럼통을 상차하는 과정에서 드럼통 상부로 올라가다 발이 미끄러지며 드럼통 상부에서 바닥으로 떨어져 사망한 재해임",
+    "accidentType": "떨어짐 (추락)",
+    "accidentTypeId": 1,
+    "originalType": "떨어짐"
+  },
+  {
+    "id": 5,
+    "title": "쏟아지는 원료에 깔림",
+    "industry": "제조업",
+    "description": "2025. 3. 00.(월) 10:18분경 경북 경주시 소재 OOOOOO영농조합법인 소 사료 제조 공장에\r\n원료 발효 저장탱크 하부 점검구를 열고 고착된 원료를 나무막대기로 제거하는 작업 중\r\n갑자기 쏟아지는 원료에 깔림",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "깔림"
+  },
+  {
+    "id": 6,
+    "title": "폐드럼통 용단 작업 중 폭발",
+    "industry": "제조업",
+    "description": "‘2025.  6. 0.(월) 10:25경 경기 김포시 소재 사업장에서 철재 폐드럼통을 고철 보관함으로 사용하기 위해\r\n플라즈마 절단기를 이용하여 폐드럼통 상판을 용단 하던 중 내부 인화성 증기가 폭발하여 드럼통 상판에 안면부를 맞음",
+    "accidentType": "폭발",
+    "accidentTypeId": 9,
+    "originalType": "폭발"
+  },
+  {
+    "id": 7,
+    "title": "집진기 백필터 교체 작업 중 화재 폭발",
+    "industry": "제조업",
+    "description": "‘2025. 1. 00.(수) 11:39경,  충남 당진시 소재 ○○○○○㈜에서 국소배기장치 백필터 교체 작업 중 \r\n\r\n집진기에서 화재·폭발이 발생하여 1명이 사망하고 1명이 부상을 입은 재해임",
+    "accidentType": "폭발",
+    "accidentTypeId": 9,
+    "originalType": "폭발"
+  },
+  {
+    "id": 8,
+    "title": "프레스 작업 중 날아오는 물체에 맞음",
+    "industry": "제조업",
+    "description": "‘2025. 03. 00.(화) 13:55경 대구시 소재 OOOO 내 생산공정에서 프레스 작업 중 \r\n\r\n볼스터 상부에 적재한 반제품이 볼스터와 상부 금형에 끼이면서 이탈된 반제품에  재해자가 맞음",
+    "accidentType": "맞음 (낙하/비래)",
+    "accidentTypeId": 5,
+    "originalType": "맞음"
+  },
+  {
+    "id": 9,
+    "title": "산업용 로봇 구조물에 끼임",
+    "industry": "제조업",
+    "description": "충남 천안시 소재 ㈜OOOO에서 재해자가 산업용 로봇 셀안으로 들어가 작업하던 중,\r\n자동으로 작동하던 로봇의 말단장치(End-effector)와 바스켓 사이에 끼임",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 10,
+    "title": "화물 자동차 상부 작업 중 떨어짐",
+    "industry": "제조업",
+    "description": "광주 광산구 소재에서 화물자동차 적재함에 2단으로 상차된 생산품을 라쳇벨트로 고정시키던 중,\r\n\r\n화물자동차 적재함 상부에서 지상 바닥으로 떨어짐",
+    "accidentType": "떨어짐 (추락)",
+    "accidentTypeId": 1,
+    "originalType": "떨어짐"
+  },
+  {
+    "id": 11,
+    "title": "상차 작업 중 떨어짐",
+    "industry": "제조업",
+    "description": "전남, 화물자동차 상부에서 물김* 위치를 조정하던 중 이동식크레인으로\r\n운반중인 물김* 망다발에 맞아 화물자동차에서 떨어짐\r\n\r\n\r\n\r\n*물김: 해조류(김)",
+    "accidentType": "떨어짐 (추락)",
+    "accidentTypeId": 1,
+    "originalType": "떨어짐"
+  },
+  {
+    "id": 12,
+    "title": "금형 가공 작업 중 깔림",
+    "industry": "제조업",
+    "description": "부산 강서구 소재 OOOO 작업장에서 자동차 부품 제작용 금형을 작업대에 \r\n올려두고 표면을 *왕복 사상기로 가공하던 중 세로로 세워져 있던 금형이 재해자 방향으로 전도되며 금형에 깔림",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "깔림"
+  },
+  {
+    "id": 13,
+    "title": "용접 준비 작업 중 회전부에 끼임",
+    "industry": "제조업",
+    "description": "‘2025. 1. 00.(금) 10:40경 울산시 남구 소재 OOO공장에서 \r\n\r\n터닝롤러 상부에 장착 시킨 압력용기 용접 작업을 준비하던 중, 회전하는 터닝롤러의 샤프트에 신체가 끼임",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 14,
+    "title": "상판 설치 작업 중 떨어짐",
+    "industry": "제조업",
+    "description": "‘2025. 01. 00.(수) 15:05경 경남 함안시 소재 OOOOO 공장내에서 \r\n\r\n유도가열 설비와 소재 이송장치 설치 작업을 위한 상판 연결 작업 중 상판 단부(H≒2.7)에서 떨어짐",
+    "accidentType": "떨어짐 (추락)",
+    "accidentTypeId": 1,
+    "originalType": "떨어짐"
+  },
+  {
+    "id": 15,
+    "title": "넘어지는 형틀에 깔림",
+    "industry": "제조업",
+    "description": "2025. 01. 00.(월) 13:17경 대구시 소재 OO 주철 주조동에서 타 작업자가 크레인으로 \r\n조형상자를 주조형 금형 위치로 운반 및 조립하는 작업을 하던 중 조형상자가 재해자 뒤편에 세워진 형틀과 충돌하여 전도되며 \r\n재해자가 형틀에 깔림",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "깔림"
+  },
+  {
+    "id": 16,
+    "title": "금형 교체 작업 중 떨어지는 금형에 깔림",
+    "industry": "제조업",
+    "description": "‘2024. 11. 00.(토) 11:39경,  충남 아산시 소재 ㈜○○에서 사출성형기 금형 교체 중 \r\n\r\n성형기 내부로 들어간 재해자가 고정형판으로부터 떨어지는 금형에 깔림",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "깔림"
+  },
+  {
+    "id": 17,
+    "title": "코일 결속 밴드 절단작업 중 깔림",
+    "industry": "제조업",
+    "description": "2024.12.00.(목) 13:24분경 울산광역시 울주군 소재 oo사업장에서 천장크레인을 사용해 철판 코일 묶음을 코일 적재대의 2단에 적재한 후 결속된 철밴드를 절단하던 중 코일이 재해자 방향으로 넘어져 깔림",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "깔림"
+  },
+  {
+    "id": 18,
+    "title": "용접 작업 중 지게차에 깔림",
+    "industry": "제조업",
+    "description": "2025.2.00.(금) 15:30분경 부산광역시 강서구 소재 oooo사업장에서 용접 작업 중 제품 이송을 위해 후진으로 이동하는 지게차에 깔림",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "깔림"
+  },
+  {
+    "id": 19,
+    "title": "블로우 몰딩기 작업중 금형에 끼임",
+    "industry": "제조업",
+    "description": "2024.9.00.(화) 09:57경 충남 아산시 소재 사업장에서 재해자가 블로우몰딩기 우측 금형에 원자재(부직포)를 거치던 중\r\n블로우몰딩기가 동작하며 금형 사이에 끼임",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 20,
+    "title": "레이저 절단기 안전문에 끼임",
+    "industry": "제조업",
+    "description": "2024.12.00.(화) 10:33분경 대구 달성군 소재 사업장에서 레이저 절단기 내부에 철판을 꺼내어 절단면 확인 중 도어 사이에 끼임",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 21,
+    "title": "화물자동차 상차 작업 중 추락",
+    "industry": "제조업",
+    "description": "2022.4.00.(수) 00:00경 경기도 광주 소재 OO작업장에서 기계설비 상차 작업 후 적재함 후미에서 내려오다가 몸의 중심을 잃고 지면(약 1.8m)으로 떨어져 사망함.",
+    "accidentType": "떨어짐 (추락)",
+    "accidentTypeId": 1,
+    "originalType": "추락"
+  },
+  {
+    "id": 22,
+    "title": "원단 이송용 롤러 사이에 끼임",
+    "industry": "제조업",
+    "description": "2024.11.00.(토) 경기도 양주시 소재 제조업 사업장에서 원단 이송용 롤러에 양 팔이 끼임",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 23,
+    "title": "CNC 선반으로 절단작업 중 강관에 맞음",
+    "industry": "제조업",
+    "description": "2024.09.00(수) 10:11분경 부산시 강서구 소재 OO사업장에서 재해자가 배관용 강관을 CNC선반에 투입하여 절단작업을 하던 중 회전하는 배관용 강관이 진동에 의해 휘어져 이를 손으로 잡기 위해 인접해 있던 재해자를 강관이 강타함",
+    "accidentType": "맞음 (낙하/비래)",
+    "accidentTypeId": 5,
+    "originalType": "맞음"
+  },
+  {
+    "id": 24,
+    "title": "지게차와 부딪힘",
+    "industry": "제조업",
+    "description": "2023.04.00(일) 인천광역시 소재 물류센터 피키장에서 재해자가 박스를 들고 이동중 지게차와 충돌하여 사망",
+    "accidentType": "부딪힘 (충돌)",
+    "accidentTypeId": 3,
+    "originalType": "부딪힘"
+  },
+  {
+    "id": 25,
+    "title": "지게차 덧발 지그와 철골기둥 사이에 끼임",
+    "industry": "제조업",
+    "description": "2024.08.00 (수) 21:45경 경북 영천시 소재 (주)00공장동 원료 입고장에서 톤백을 지게차로 사용하여 운반하던 중 전진하던 지게차에 부착된 덧발 지그와 철골 기둥 사이에 끼임",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 26,
+    "title": "인화성 가스캔 압축설비 가동중 화재, 폭발 발생",
+    "industry": "제조업",
+    "description": "2024.08.00.(수) 00:00경 인천 소재 000에서 재해자가 캔 압축기 설비를 이용하여 부탄가스 캔 등 압축중 부탄(C4H10)이 체류한 상태에서 제어반 전기 스파크 점화원에 의한 화재 폭발 발생",
+    "accidentType": "화재",
+    "accidentTypeId": 10,
+    "originalType": "화재"
+  },
+  {
+    "id": 27,
+    "title": "인쇄기 청소작업중 끼임",
+    "industry": "제조업",
+    "description": "2024.07.00 16:52분경 충남소재 (주) ooo공장동 인쇄기실 내부 컬러인쇄 공정에서, 에어건을 이용해 내부 청소 작업중 회전중인 기기에 끼임",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 28,
+    "title": "줄걸이 작업 중 코일에 깔림",
+    "industry": "제조업",
+    "description": "2024.11.00(금) 15:00경 전남 소재 현장에서 천장크레인을 이용하여 코일 이동 작업 중 넘어지는 코일에 깔림 (코일무게 : 4.5t)",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "깔림"
+  },
+  {
+    "id": 29,
+    "title": "드럼통을 절단하던 중 폭발",
+    "industry": "제조업",
+    "description": "2024.09.00.(토) 경남 사천시 소재 OO공장 내에서 드럼통의 금속판을 산소 절단기(LPG)로 절단 하던 중 잔류 인화성 증기의 폭발로 금속판에 맞음",
+    "accidentType": "폭발",
+    "accidentTypeId": 9,
+    "originalType": "폭발"
+  },
+  {
+    "id": 30,
+    "title": "블록 생산 중 큐빙기에 끼임",
+    "industry": "제조업",
+    "description": "2024.06.00.(토) 충북 충주시 소재 OO콘크리트 블록 생산 공장에서 큐빙기 점검 중 오작동으로 인한 끼임",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 31,
+    "title": "천장주행크레인 인양물에 밀려 열탕조에 빠짐",
+    "industry": "제조업",
+    "description": "2023.12.00.(토) 충남 공주시 소재 OOOO(주)산세실에서 재해자가 천장크레인을 조종하며 파이프 다발을 운반 중 열탕조에 빠짐",
+    "accidentType": "떨어짐 (추락)",
+    "accidentTypeId": 1,
+    "originalType": "추락"
+  },
+  {
+    "id": 32,
+    "title": "지게차에 끼임",
+    "industry": "제조업",
+    "description": "2024.05.00.(수) 부산시 소재 OOO작업장에서 지게차에 올려진 팔레트 위에서 작업 후 조종석에 발을 딛고 내려오던 중 오작동에 의한 끼임",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 33,
+    "title": "선재 코일에 깔림",
+    "industry": "제조업",
+    "description": "2024.07.00.(월) 경남 김해시 소재 OO작업장에서 선재코일의 검수 작업 중 선재코일이 재해자 방향으로 전도",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "깔림"
+  },
+  {
+    "id": 34,
+    "title": "덮개가 개방된 개구부에서 떨어짐",
+    "industry": "제조업",
+    "description": "2024.07.00(수) 경북 울진군 (주)OO산업 콘크리트 제조업 사업장에서 개구부로 떨어짐(4.3m)",
+    "accidentType": "떨어짐 (추락)",
+    "accidentTypeId": 1,
+    "originalType": "떨어짐"
+  },
+  {
+    "id": 35,
+    "title": "폐비닐용 압축기 청소 중 끼임",
+    "industry": "제조업",
+    "description": "2024.06.00 서울시 용산구 소재 OO사업장에서 재활용품 압축기 실린더 하부 청소 작업 중 실린더 프레임과 압축기 프레임(고정체) 사이에 끼임",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 36,
+    "title": "폐기물 하역작업 중 적재물에 깔림",
+    "industry": "제조업",
+    "description": "2024.05.00 충남 소재 OO소속 운전원이 폐기물을 하역하는 중 적재함 후미문이 개방되는 과정에서 적재물에 의한 깔림",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "깔림"
+  },
+  {
+    "id": 37,
+    "title": "평판타발기에 협착",
+    "industry": "제조업",
+    "description": "2024.06.00 경남 김해시 소재 OO작업장에서 기계 내부에 진입하여 정비 작업 중 동료작업자가 기계를 작동시켜 재해자의 신체 일부가 기계 사이에 협착",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 38,
+    "title": "탈착기에서 이탈된 캐스팅에 맞음",
+    "industry": "제조업",
+    "description": "2024.06.00 경북 칠곡군 소재 OO공장에서 양생된 흄관이 들어있는 형틀을 탈형하기 위해 분리 중 캐스팅 탈착기 상/하부 클램프가 이탈되어 맞음",
+    "accidentType": "맞음 (낙하/비래)",
+    "accidentTypeId": 5,
+    "originalType": "맞음"
+  },
+  {
+    "id": 39,
+    "title": "천장크레인 권상된 중량물에 깔림",
+    "industry": "제조업",
+    "description": "2024.07.00 경남 창녕군 OO작업장에서 재해자가 천장크레인에 중량물을 권상한 후 지면에서 작업 중 달기구가 이탈되면서 중량물에 깔림",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "깔림"
+  },
+  {
+    "id": 40,
+    "title": "이중천장(EPS패널)에서 떨어짐",
+    "industry": "제조업",
+    "description": "2024.03.00 전북 익산시 소재 OO공장 EPS패널(샌드위치 패널) 위에서 작업 중 근로자가 바닥으로 떨어짐",
+    "accidentType": "떨어짐 (추락)",
+    "accidentTypeId": 1,
+    "originalType": "떨어짐"
+  },
+  {
+    "id": 41,
+    "title": "이동식 사다리 위에서 작업중 떨어짐",
+    "industry": "제조업",
+    "description": "2024.06.00 인천시 소재 제조업 사업장에서 이동식사다리(A형 사다리) 위에서 작업 중 떨어짐",
+    "accidentType": "떨어짐 (추락)",
+    "accidentTypeId": 1,
+    "originalType": "떨어짐"
+  },
+  {
+    "id": 42,
+    "title": "무너져 내리는 골재에 깔림",
+    "industry": "제조업",
+    "description": "2024.05.00 충북 단양군 소재 OO공장 석회석 골재 야적장에서 무너져 내리는 골재에 의한 깔림",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "깔림"
+  },
+  {
+    "id": 43,
+    "title": "넘어지는 화물에 깔림",
+    "industry": "제조업",
+    "description": "2024.07.00 광주광역시 소재 OO공장 내 지게차 급정지 및 급선회 운전 과정에서 재해자 방향으로 넘어지는 화물에 깔림",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "깔림"
+  },
+  {
+    "id": 44,
+    "title": "낙석물 청소작업 중 끼임",
+    "industry": "제조업",
+    "description": "2017.12.00 경기도 화성시 소재 OO사업장에서 컨베이어 벨트와 스넙드럼 사이에 끼임",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 45,
+    "title": "콘크리트 믹서트럭 정비 중 끼임",
+    "industry": "제조업",
+    "description": "2024.06.00 충남 소재 OOOO에서 콘크리트 믹서트럭 정비작업 중 트럭이 움직여 주차되어있던 타 트럭과 사이에 끼임",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 46,
+    "title": "청소작업 중 롤러에 끼임",
+    "industry": "제조업",
+    "description": "2024.05.00 경기도 포천시 소재 OOOO에서 플라스틱 시트 생산공정 내 롤러사이에 끼임",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 47,
+    "title": "차량계 하역운반기계에 협착",
+    "industry": "제조업",
+    "description": "2024.06.00 경남 창원시 소재 OOOO사업장에서 화물자동차에서 물품 하차작업 중 집게차와 화물자동차 사이에 협착",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "끼임"
+  },
+  {
+    "id": 48,
+    "title": "옥상 방수 보수작업중 추락",
+    "industry": "제조업",
+    "description": "2023.08.00 경기도 용인시 소재 아파트 옥상 방수보수작업 중 추락",
+    "accidentType": "떨어짐 (추락)",
+    "accidentTypeId": 1,
+    "originalType": "추락"
+  },
+  {
+    "id": 49,
+    "title": "수변전실 정비 중 감전",
+    "industry": "제조업",
+    "description": "2024.01.00 전북 완주군 소재 OOOO 수변전실 내 정비작업 중 감전",
+    "accidentType": "감전",
+    "accidentTypeId": 8,
+    "originalType": "감전"
+  },
+  {
+    "id": 50,
+    "title": "사다리작업 중 떨어짐",
+    "industry": "제조업",
+    "description": "2024.05.00. 서울 소재 OOOO빌딩 지하주차장에서 이동식사다리에 올라 자동화재탐지설비 적검 중 떨어짐",
+    "accidentType": "떨어짐 (추락)",
+    "accidentTypeId": 1,
+    "originalType": "떨어짐"
+  },
+  {
+    "id": 51,
+    "title": "비산재 제거 작업중 매몰",
+    "industry": "제조업",
+    "description": "2024.05.00 서울 강남구 소재 OOOO현장에서 폐열보일러 호퍼 내부 비산재 제거작업 중 비산재가 붕괴되며 매몰",
+    "accidentType": "넘어짐 (전도)",
+    "accidentTypeId": 2,
+    "originalType": "넘어짐"
+  },
+  {
+    "id": 52,
+    "title": "노면 청소차에 깔림",
+    "industry": "제조업",
+    "description": "2024.04.00. 충남 공주시 OO고속도로 터널 내부에서 노면 및 벽면 청소작업 중 청소차에 깔림",
+    "accidentType": "깔림/끼임 (협착)",
+    "accidentTypeId": 4,
+    "originalType": "깔림"
+  },
+  {
+    "id": 53,
+    "title": "공기재킷 산소오접속 화재",
+    "industry": "제조업",
+    "description": "2024.07.00(화) 광양시 소재 OOOO공장에서 산소분기관에 연결(오접속)된 공기재킷 착용하여 철골 부속자재 용접작업 중 화재",
+    "accidentType": "화재",
+    "accidentTypeId": 10,
+    "originalType": "화재"
+  },
+  {
+    "id": 54,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 55,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 56,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 57,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 58,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 59,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 60,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 61,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 62,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 63,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 64,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 65,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 66,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 67,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 68,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 69,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 70,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 71,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 72,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 73,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 74,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 75,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 76,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 77,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 78,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 79,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 80,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 81,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 82,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 83,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 84,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 85,
+    "title": "",
+    "industry": "건설업",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 86,
+    "title": "",
+    "industry": "조선업",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 87,
+    "title": "",
+    "industry": "서비스업",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 88,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 89,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 90,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 91,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 92,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 93,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 94,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 95,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 96,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 97,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 98,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 99,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 100,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 101,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 102,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 103,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 104,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 105,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 106,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 107,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 108,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 109,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 110,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 111,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 112,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 113,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 114,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 115,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 116,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 117,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 118,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 119,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 120,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 121,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 122,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 123,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 124,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 125,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 126,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 127,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 128,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 129,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 130,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 131,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 132,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 133,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 134,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 135,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 136,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 137,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 138,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 139,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 140,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 141,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 142,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 143,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 144,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 145,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 146,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 147,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 148,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 149,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 150,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 151,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 152,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 153,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 154,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 155,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 156,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 157,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 158,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 159,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 160,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 161,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 162,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 163,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 164,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 165,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 166,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 167,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 168,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 169,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 170,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 171,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 172,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 173,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 174,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 175,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 176,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 177,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 178,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 179,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 180,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 181,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 182,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 183,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 184,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 185,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 186,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 187,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  },
+  {
+    "id": 188,
+    "title": "",
+    "industry": "",
+    "description": "",
+    "accidentType": "기타",
+    "accidentTypeId": 20,
+    "originalType": ""
+  }
+]
